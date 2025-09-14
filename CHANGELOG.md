@@ -7,3 +7,4 @@
 - 2025-09-13: optimize tokenURI loop
 - 2025-09-13: improve error handling in deploy script
 - 2025-09-13: add events for tracking
+- 2025-09-14: add batch mint support

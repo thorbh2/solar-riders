@@ -9,3 +9,4 @@
 - 2025-09-13: add events for tracking
 - 2025-09-14: add batch mint support
 - 2025-09-20: add initial project scaffold
+- 2025-09-20: add tests for the allowlist

@@ -11,3 +11,4 @@
 - 2025-09-20: add initial project scaffold
 - 2025-09-20: add tests for the allowlist
 - 2025-10-01: add events for tracking
+- 2025-10-01: bump dependency versions
